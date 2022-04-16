@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/iPhoneX"
+        android:title="iPhone X" />
+    <item
+        android:id="@+id/iPhone13"
+        android:title="iPhone 13" />
+    <item
+        android:id="@+id/iPhone7"
+        android:title="iPhone 7" />
+    <item
+        android:id="@+id/iPhone13PRO"
+        android:title="iPhone 13PRO" />
+</menu>
